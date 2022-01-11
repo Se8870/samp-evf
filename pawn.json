@@ -1,0 +1,8 @@
+{
+    "user": "Emmet",
+    "repo": "samp-evf",
+    "include_path": "include/",
+    "dependencies": [
+        "sampctl/samp-stdlib"
+    ]
+}
