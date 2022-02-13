@@ -1,2 +1,2 @@
 # samp-evf
-SAMP Extended Vehicle Information by Emmet
+SAMP Extended Vehicle Framework by Emmet
